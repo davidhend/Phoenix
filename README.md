@@ -10,3 +10,9 @@ EmotionInputs polls/scales the sensor data and will send it to the emotion engin
 
 Both the Emotion_Engine & EmotionInputs programs communicate with each other over I2C.
 
+Everyting was compiled using arduino ide 00021; in the libraries folder you will find a single
+directory called WorldMood.  You will want to download this library and place it in your libraries
+directory of your Arduino installation.  
+
+
+
